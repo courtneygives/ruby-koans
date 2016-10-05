@@ -1,3 +1,42 @@
+== Excersises included:
+
+- asserts
+- nil
+- objects
+- arrays
+- array_assignment
+- hashes
+- strings
+- symbols
+- regular_expressions
+- methods
+- keyword_arguments
+- constants
+- control_statements
+- true_and_false
+- triangle_project
+- exceptions
+- triangle_project_2
+- iteration
+- blocks
+- sandwich_code
+- scoring_project
+- classes
+- open_classes
+- dice_project
+- inheritance
+- modules
+- scope
+- class_methods
+- message_passing
+- proxy_object_project
+- to_str
+- java_interop (jRuby)
+- extra_credit
+
+
+# Original Readme
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
