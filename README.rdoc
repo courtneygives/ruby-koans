@@ -1,4 +1,4 @@
-== Excersises included:
+= Excersises included
 
 - asserts
 - nil
@@ -34,10 +34,8 @@
 - java_interop (jRuby)
 - extra_credit
 
-
-# Original Readme
-
-= Neo Ruby Koans
+ 
+= Neo Ruby Koans (Original Readme)
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
 The goal is to learn the Ruby language, syntax, structure, and some common
