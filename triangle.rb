@@ -15,6 +15,12 @@
 #
 def triangle(a, b, c)
   # WRITE THIS CODE
+  # if a <= 0 || b <= 0 || c <= 0
+  #   raise TriangleError, 'Nope'
+  # end
+  if a + b <= c || b + c <= a || a + c <= b 
+    raise TriangleError, 'Not a triangle'
+  end
   if a == b && a == c
     :equilateral
   elsif a == b || b == c || c == a
@@ -26,5 +32,6 @@ end
 
 # Error class used in part 2.  No need to change this code.
 class TriangleError < StandardError
+
 end
  
